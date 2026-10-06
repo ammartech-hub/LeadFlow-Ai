@@ -1,0 +1,6 @@
+{
+  "name": "LeadFlow AI - B2B Sales & Customer Engagement Platform",
+  "description": "Enterprise AI-powered B2B sales intelligence and customer engagement platform for SaaS and CPaaS teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
